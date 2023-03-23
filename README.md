@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Guilherme Gritti
 
-- 🔭 Hoje sou fullstack (ReactJS / PHP) mas procuro trabalhar apenas com Front-End 
-- 🌱 Estudando Angular / Vue / Node
+- 🔭 Sou Frontend e atuo com a Stack React (Typescript/Javascript)
+- 🌱 Estudando Angular / Vue / Node (Derivados Javascript)
+- 🥇 Fui aluno destaque em 5 Bimestres no Curso Técnico de Análise e Desenvolvimento de Sistemas
 - 😄 Costumam me chamar de Gritti :)
 
 ##
